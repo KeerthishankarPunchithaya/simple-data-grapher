@@ -370,3 +370,12 @@ justify-content: flex-start;
   --tw-bg-opacity: 1;
   background-color: rgba(34,38,53,var(--tw-bg-opacity));
 }
+.bottom-footer-link:link {
+  color: white;
+  text-decoration: none;
+}
+.bottom-footer-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
